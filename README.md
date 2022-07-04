@@ -1,7 +1,7 @@
 ## Oii! Eu sou a Michelle
 
-🔭 Desenvolvedora Front-End
-🌱 Estudando React
+🔭 Desenvolvedora Front-End<br>
+🌱 Estudando React<br>
 ⚡ Curiosidade: Sou apaixonada por flores e jogos de puzzle
 
 
