@@ -1,7 +1,7 @@
 ## Oii! Eu sou a Michelle
 
 🔭 Desenvolvedora Front-End<br>
-🌱 Estudando React<br>
+🌱 Estudando React pela Alura & Java no Bootcamp DIO Santander Code Girls <br>
 ⚡ Curiosidade: Sou apaixonada por flores e jogos de puzzle
 
 
