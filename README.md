@@ -1,8 +1,6 @@
-## Oii! Eu sou a Michelle
+# Oii! Eu sou a Michelle
 
-🔭 Desenvolvedora de Software<br>
-🌱 Estudando Java<br>
-⚡ Curiosidade: Sou apaixonada por flores e jogos de puzzle
+
 
 
 <div align="center">
